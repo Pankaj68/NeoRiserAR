@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary 1
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5104951349240405636
+  m_GuidHigh: 16980311024382891660
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4714805099361562615
+      m_GuidHigh: 17424122942489676688
+    m_SerializedTextureGuid:
+      m_GuidLow: 6828762291348153575
+      m_GuidHigh: 6038984796877808313
+    m_Size: {x: 1, y: 0.40298206}
+    m_SpecifySize: 1
+    m_Name: Downtube Right
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5235251022240969532
+      m_GuidHigh: 6146582237877758114
+    m_SerializedTextureGuid:
+      m_GuidLow: 595831653950262214
+      m_GuidHigh: 14191526474355051560
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Downtube Right
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5762467361696843147
+      m_GuidHigh: 13187810291567133077
+    m_SerializedTextureGuid:
+      m_GuidLow: 16493407194420572220
+      m_GuidHigh: 14020250700366503003
+    m_Size: {x: 1, y: 0.6666667}
+    m_SpecifySize: 1
+    m_Name: Downtube Right
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5575208115025928421
+      m_GuidHigh: 15314501476617687199
+    m_SerializedTextureGuid:
+      m_GuidLow: 8170732557152302256
+      m_GuidHigh: 4180439343516069528
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: Downtube Right
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4817331754358404051
+      m_GuidHigh: 15127474581630905774
+    m_SerializedTextureGuid:
+      m_GuidLow: 9539938366073159987
+      m_GuidHigh: 9575588957629608426
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: Downtube Right
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4632051132016097936
+      m_GuidHigh: 11211054380865838232
+    m_SerializedTextureGuid:
+      m_GuidLow: 15254884865645090867
+      m_GuidHigh: 11960945341698742536
+    m_Size: {x: 0.1, y: 0.10040323}
+    m_SpecifySize: 1
+    m_Name: Front-HeadTube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4875716517264168089
+      m_GuidHigh: 13621340968954544265
+    m_SerializedTextureGuid:
+      m_GuidLow: 3581514327325650656
+      m_GuidHigh: 6672713982413818680
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Downtube Left
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4932118429524032199
+      m_GuidHigh: 12129996223136543388
+    m_SerializedTextureGuid:
+      m_GuidLow: 12665310404673102746
+      m_GuidHigh: 7334033183740807659
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: Downtube Left
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4864225229965271668
+      m_GuidHigh: 8681573709833157016
+    m_SerializedTextureGuid:
+      m_GuidLow: 18303940161195667611
+      m_GuidHigh: 10963591245988171001
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: Downtube Left
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4946785028825326213
+      m_GuidHigh: 5608275685685208465
+    m_SerializedTextureGuid:
+      m_GuidLow: 17497775097571905643
+      m_GuidHigh: 16455273033960217098
+    m_Size: {x: 1, y: 1.3333334}
+    m_SpecifySize: 1
+    m_Name: Downtube Left
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5406818562374809471
+      m_GuidHigh: 17867600982567435423
+    m_SerializedTextureGuid:
+      m_GuidLow: 15016315299420516631
+      m_GuidHigh: 16909260917543482475
+    m_Size: {x: 1, y: 0.6666667}
+    m_SpecifySize: 1
+    m_Name: Downtube Left
+    m_Texture: {fileID: 0}
